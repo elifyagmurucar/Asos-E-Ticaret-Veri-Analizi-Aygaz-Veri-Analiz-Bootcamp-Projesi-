@@ -7,7 +7,6 @@ Veri Setim: https://www.kaggle.com/datasets/trainingdatapro/asos-e-commerce-data
 
 **Adım 1: Veri Setinin İncelenmesi ve Yüklenmesi**
 
-
 Veri Setindeki Değişkenler:
 
 - •	`product_name:` Ürünün adı
