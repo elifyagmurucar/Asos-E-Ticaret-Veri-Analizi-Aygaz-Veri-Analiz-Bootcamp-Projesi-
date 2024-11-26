@@ -1,6 +1,6 @@
 **Asos E-Ticaret  Veri Analizi**
 
-Bu proje ile bir Asos e-ticaret sitesindeki ürünlerin detaylarını analiz edeceğim ve önemli çıkarımlar yapmayı hedefleyorum. Örneğin, hangi kategorilerdeki ürünlerin daha popüler olduğunu, fiyat dağılımlarını ve stok durumlarını inceleyeceğim.
+Bu proje ile bir Asos e-ticaret sitesindeki ürünlerin detaylarını analiz edeceğim ve önemli çıkarımlar yapmayı hedefleyorum. Örneğin, hangi kategorilerdeki ürünlerin daha popüler olduğunu, fiyat dağılımlarını ve stok durumlarını inceleyeceğim.Kısaca hangi adımlar ile gideceğimi aşağıda özetliyor olacağım.Verileri Analiz dosyam üzerinden adımlara ulaşabilirsiniz.
 
 
 Veri Setim: https://www.kaggle.com/datasets/trainingdatapro/asos-e-commerce-dataset-30845-products
